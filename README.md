@@ -1,2 +1,2 @@
-# glossaries
+# Glossaries
 Glossary repository (en -> pt)
