@@ -54,7 +54,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | multi-cloud | Referring to the use of multiple cloud service providers | adjective | No | No | — | multinuvem |
 | sensitive data | — | —| —| —| — | dados confidenciais |
 | shadow IT | — | —| —| — | — | TI invisível |
-| shadow AI | — | — | — | — | - | IA sombra |
+| shadow AI | — | — | — | — | — | IA sombra |
 | Microsoft's Work Trend Index | — | — | — | — | — | Índice de Tendências de Trabalho da Microsoft |
 
 ---
