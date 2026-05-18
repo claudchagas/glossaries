@@ -52,6 +52,10 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | edge computing | A distributed computing paradigm that processes data near the source rather than in a central data center | noun phrase | No | Yes | — | edge computing |
 | access management | The practice of controlling who can access systems, data, and resources | noun phrase | No | No | — | gerenciamento de acesso |
 | multi-cloud | Referring to the use of multiple cloud service providers | adjective | No | No | — | multinuvem |
+| sensitive data | — | —| —| —| — | dados confidenciais |
+| shadow IT | — | —| —| — | — | TI invisível |
+| shadow AI | — | — | — | — | - | IA sombra |
+| Microsoft's Work Trend Index | — | — | — | — | — | Índice de Tendências de Trabalho da Microsoft |
 
 ---
 
