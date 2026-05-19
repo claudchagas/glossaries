@@ -56,6 +56,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | shadow IT | — | —| —| — | — | TI invisível |
 | shadow AI | — | — | — | — | — | IA sombra |
 | Microsoft's Work Trend Index | — | — | — | — | — | Índice de Tendências de Trabalho da Microsoft |
+| identity security | — | —| —| —| — | segurança de identidade |
 
 ---
 
