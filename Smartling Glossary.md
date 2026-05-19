@@ -57,7 +57,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | shadow AI | — | — | — | — | — | IA sombra |
 | Microsoft's Work Trend Index | — | — | — | — | — | Índice de Tendências de Trabalho da Microsoft |
 | identity security | — | —| —| —| — | segurança de identidade |
-
+| master password | — | —| —| —| — | senha-mestra |
+| X Handle | An X (formerly known as Twitter) handle is the username that appears at the end of your unique Twitter URL: X Handle | —| —| —| — | Identificador do X |
 ---
 
 A few notes worth flagging:
