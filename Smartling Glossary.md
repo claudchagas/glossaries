@@ -59,6 +59,9 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | identity security | — | —| —| —| — | segurança de identidade |
 | master password | — | —| —| —| — | senha-mestra |
 | X Handle | An X (formerly known as Twitter) handle is the username that appears at the end of your unique Twitter URL: X Handle | —| —| —| — | Identificador do X |
+| tags | — | —| —| —| — | marcadores |
+| team hub | — | —| —| —| — | central de equipe |
+| Newsletter | — | —| —| —| — | boletim informativo |
 ---
 
 A few notes worth flagging:
