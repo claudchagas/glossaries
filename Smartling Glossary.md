@@ -68,6 +68,9 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | customer journey | — | —| —| —| — | jornada do cliente |
 | insight | — | —| —| —| — | insight |
 | training labs | — | —| —| —| — | oficina de treinamentos |
+| data flow diagram | — | —| —| —| — | diagrama de fluxo de dados |
+| swimlane diagram | — | —| —| —| — | fluxograma funcional |
+| value stream map | — | —| —| —| — | mapa de fluxo de valor |
 ---
 
 A few notes worth flagging:
