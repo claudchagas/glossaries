@@ -64,6 +64,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Newsletter | — | —| —| —| — | boletim informativo |
 | Frame | — | —| —| —| — | quadro |
 | Lucid Suite | — | —| —| —| — | Lucid Suite |
+| deploy | — | —| —| —| — | Implantar |
 ---
 
 A few notes worth flagging:
