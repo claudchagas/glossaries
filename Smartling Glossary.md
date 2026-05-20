@@ -65,6 +65,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Frame | — | —| —| —| — | quadro |
 | Lucid Suite | — | —| —| —| — | Lucid Suite |
 | deploy | — | —| —| —| — | Implantar |
+| customer journey | — | —| —| —| — | jornada do cliente |
+| insight | — | —| —| —| — | insight |
 ---
 
 A few notes worth flagging:
