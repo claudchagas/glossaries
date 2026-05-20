@@ -62,6 +62,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | tags | — | —| —| —| — | marcadores |
 | team hub | — | —| —| —| — | central de equipe |
 | Newsletter | — | —| —| —| — | boletim informativo |
+| Frame | — | —| —| —| — | quadro |
+| Lucid Suite | — | —| —| —| — | Lucid Suite |
 ---
 
 A few notes worth flagging:
