@@ -67,6 +67,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | deploy | — | —| —| —| — | Implantar |
 | customer journey | — | —| —| —| — | jornada do cliente |
 | insight | — | —| —| —| — | insight |
+| training labs | — | —| —| —| — | oficina de treinamentos |
 ---
 
 A few notes worth flagging:
