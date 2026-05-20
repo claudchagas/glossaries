@@ -73,6 +73,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | value stream map | — | —| —| —| — | mapa de fluxo de valor |
 | @mention | — | —| —| —| — | função de marcar colegas com @ |
 | cloud-based | — | —| —| —| que roda na nuvem | online |
+| hotspot | — | —| —| —| ponto de acesso | ponto de interação |
+| whiteboard | — | —| —| —| — | puadro branco online |
 ---
 
 A few notes worth flagging:
