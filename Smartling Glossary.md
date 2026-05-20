@@ -71,6 +71,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | data flow diagram | — | —| —| —| — | diagrama de fluxo de dados |
 | swimlane diagram | — | —| —| —| — | fluxograma funcional |
 | value stream map | — | —| —| —| — | mapa de fluxo de valor |
+| @mention | — | —| —| —| — | função de marcar colegas com @ |
 ---
 
 A few notes worth flagging:
