@@ -75,6 +75,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | cloud-based | — | —| —| —| que roda na nuvem | online |
 | hotspot | — | —| —| —| ponto de acesso | ponto de interação |
 | whiteboard | — | —| —| —| — | puadro branco online |
+| circuit diagrama | — | —| —| —| circuito elétrico | diagrama de circuito |
 ---
 
 A few notes worth flagging:
