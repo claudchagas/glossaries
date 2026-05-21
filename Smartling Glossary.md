@@ -74,7 +74,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | @mention | — | —| —| —| — | função de marcar colegas com @ |
 | cloud-based | — | —| —| —| que roda na nuvem | online |
 | hotspot | — | —| —| —| ponto de acesso | ponto de interação |
-| whiteboard | — | —| —| —| — | puadro branco online |
+| whiteboard | — | —| —| —| — | quadro branco online |
 | circuit diagrama | — | —| —| —| circuito elétrico | diagrama de circuito |
 | Google Calendar | — | —| —| —| — | Google Agenda |
 ---
