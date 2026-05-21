@@ -76,6 +76,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | hotspot | — | —| —| —| ponto de acesso | ponto de interação |
 | whiteboard | — | —| —| —| — | puadro branco online |
 | circuit diagrama | — | —| —| —| circuito elétrico | diagrama de circuito |
+| Google Calendar | — | —| —| —| — | Google Agenda |
 ---
 
 A few notes worth flagging:
