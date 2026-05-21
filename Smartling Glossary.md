@@ -78,6 +78,9 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | circuit diagrama | — | —| —| —| circuito elétrico | diagrama de circuito |
 | Google Calendar | — | —| —| —| — | Google Agenda |
 | piping and instrument diagram | — | —| —| —| — | diagrama de tubulação e instrumentos |
+| containers | — | —| —| —| — | caixas |
+| quick stickies | — | —| —| —| — | notas rápidas |
+| auto-nudging | — | —| —| —| — | ajuste automático |
 ---
 
 A few notes worth flagging:
