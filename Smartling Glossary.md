@@ -77,7 +77,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | whiteboard | — | —| —| —| — | quadro branco online |
 | circuit diagrama | — | —| —| —| circuito elétrico | diagrama de circuito |
 | Google Calendar | — | —| —| —| — | Google Agenda |
-| piping and instrument diagram | — | —| —| —| — | diagrama de tubagens e instrumentos |
+| piping and instrument diagram | — | —| —| —| — | diagrama de tubulação e instrumentos |
 ---
 
 A few notes worth flagging:
