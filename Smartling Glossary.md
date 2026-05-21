@@ -81,6 +81,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | containers | — | —| —| —| — | caixas |
 | quick stickies | — | —| —| —| — | notas rápidas |
 | auto-nudging | — | —| —| —| — | ajuste automático |
+| seat | — | —| —| —| — | licença |
+| sticky notes | — | —| —| —| — | notas adesivas |
 ---
 
 A few notes worth flagging:
