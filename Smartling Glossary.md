@@ -85,6 +85,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | sticky notes | — | —| —| —| — | notas adesivas |
 | Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
 | expiração | — | —| —| —| — | expiração |
+| One-Time Share | — | —| —| —| — | Compartilhamento Único |
 ---
 
 A few notes worth flagging:
