@@ -86,6 +86,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
 | expiration | — | —| —| —| — | expiração |
 | One-Time Share | — | —| —| —| — | Compartilhamento Único |
+| expire | — | —| —| —| vencer | expirar |
 ---
 
 A few notes worth flagging:
