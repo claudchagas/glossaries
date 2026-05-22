@@ -88,6 +88,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | expire | — | —| —| —| vencer | expirar |
 | One-Time Share | — | —| —| —| — | Compartilhamento Único |
 | mobile | — | —| —| —| — | dispositivos móveis |
+| brainstorm | — | —| —| —| — | brainstorm |
 ---
 
 A few notes worth flagging:
