@@ -84,6 +84,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | seat | — | —| —| —| — | licença |
 | sticky notes | — | —| —| —| — | notas adesivas |
 | Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
+| expiração | — | —| —| —| — | expiração |
 ---
 
 A few notes worth flagging:
