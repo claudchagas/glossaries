@@ -84,9 +84,10 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | seat | — | —| —| —| — | licença |
 | sticky notes | — | —| —| —| — | notas adesivas |
 | Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
-| expiration | — | —| —| —| — | expiração |
-| One-Time Share | — | —| —| —| — | Compartilhamento Único |
+| expiration | — | —| —| —| vencimento | expiração |
 | expire | — | —| —| —| vencer | expirar |
+| One-Time Share | — | —| —| —| — | Compartilhamento Único |
+| mobile | — | —| —| —| — | dispositivos móveis |
 ---
 
 A few notes worth flagging:
