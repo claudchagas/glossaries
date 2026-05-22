@@ -83,6 +83,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | auto-nudging | — | —| —| —| — | ajuste automático |
 | seat | — | —| —| —| — | licença |
 | sticky notes | — | —| —| —| — | notas adesivas |
+| Endpoint Privilege Manager | — | —| —| —| — | Gestor de Privilégios de Endpoints |
 ---
 
 A few notes worth flagging:
