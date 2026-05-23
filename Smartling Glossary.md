@@ -97,6 +97,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | path | — | —| —| —| — | percurso |
 | paths | — | —| —| —| — | percursos |
 | project management | — | —| —| —| — | gestão de projetos |
+| PERT chart | — | —| —| —| — | diagrama de PERT |
 ---
 
 A few notes worth flagging:
