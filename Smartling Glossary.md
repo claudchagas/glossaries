@@ -90,6 +90,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | mobile | — | —| —| —| — | dispositivos móveis |
 | brainstorm | — | —| —| —| — | brainstorm |
 | Credential Manager | — | —| —| —| — | Gerenciador de credenciais |
+| board | — | —| —| —| — | mural |
+| boards | — | —| —| —| — | murais |
 ---
 
 A few notes worth flagging:
