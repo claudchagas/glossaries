@@ -89,6 +89,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | One-Time Share | — | —| —| —| — | Compartilhamento Único |
 | mobile | — | —| —| —| — | dispositivos móveis |
 | brainstorm | — | —| —| —| — | brainstorm |
+| Credential Manager | — | —| —| —| — | Gerenciador de credenciais |
 ---
 
 A few notes worth flagging:
