@@ -96,6 +96,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Kanban boards | — | —| —| —| — | quadros Kanban |
 | path | — | —| —| —| — | percurso |
 | paths | — | —| —| —| — | percursos |
+| project management | — | —| —| —| — | gestão de projetos |
 ---
 
 A few notes worth flagging:
