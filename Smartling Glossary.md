@@ -92,6 +92,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | Credential Manager | — | —| —| —| — | Gerenciador de credenciais |
 | board | — | —| —| —| — | mural |
 | boards | — | —| —| —| — | murais |
+| Kanban boards | — | —| —| —| — | quadros Kanban |
+| Kanban boards | — | —| —| —| — | quadros Kanban |
 ---
 
 A few notes worth flagging:
