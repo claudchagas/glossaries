@@ -98,8 +98,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | paths | — | —| —| —| — | percursos |
 | project management | — | —| —| —| — | gestão de projetos |
 | PERT chart | — | —| —| —| — | diagrama de PERT |
-| switches | — | —| —| —| comutadores | interruptores |
-| switch | — | —| —| —| comutador | interruptor |
+| switches | — | —| —| —| — | comutadores |
+| switch | — | —| —| —| — | comutador |
 ---
 
 A few notes worth flagging:
