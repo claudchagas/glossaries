@@ -94,6 +94,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | boards | — | —| —| —| — | murais |
 | Kanban boards | — | —| —| —| — | quadros Kanban |
 | Kanban boards | — | —| —| —| — | quadros Kanban |
+| path | — | —| —| —| — | percurso |
+| paths | — | —| —| —| — | percursos |
 ---
 
 A few notes worth flagging:
