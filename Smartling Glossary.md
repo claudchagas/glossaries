@@ -100,6 +100,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | PERT chart | — | —| —| —| — | diagrama de PERT |
 | switches | — | —| —| —| — | comutadores |
 | switch | — | —| —| —| — | comutador |
+| database | — | —| —| —| — | base de dados |
 ---
 
 A few notes worth flagging:
