@@ -103,6 +103,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | database | — | —| —| —| — | base de dados |
 | database management system | — | —| —| —| — | sistema de gestão de base de dados |
 | add-on | — | —| —| —| — | extensão |
+| add-ons | — | —| —| —| — | extensões |
 ---
 
 A few notes worth flagging:
