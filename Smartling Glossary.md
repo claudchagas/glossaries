@@ -102,6 +102,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | switch | — | —| —| —| — | comutador |
 | database | — | —| —| —| — | base de dados |
 | database management system | — | —| —| —| — | sistema de gestão de base de dados |
+| add-on | — | —| —| —| — | complemento |
 ---
 
 A few notes worth flagging:
