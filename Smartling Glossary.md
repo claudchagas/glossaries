@@ -106,6 +106,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | add-on | — | —| —| —| — | extensão |
 | add-ons | — | —| —| —| — | extensões |
 | session recording | — | —| —| —| — | gravação de sessão |
+| time-limited access | — | —| —| —| — | acesso com tempo limitado |
+| identity security | — | —| —| —| — | segurança de identidade |
 
 ---
 
