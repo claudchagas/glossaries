@@ -100,8 +100,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | PERT chart | — | —| —| —| — | diagrama de PERT |
 | switches | — | —| —| —| — | comutadores |
 | switch | — | —| —| —| — | comutador |
-| database | An organized collection of data, stored electronically or physically, that can be efficiently accessed, managed, and updated | —| —| —| — | banco de dados |
-| databases | An organized collection of data, stored electronically or physically, that can be efficiently accessed, managed, and updated | —| —| —| — | bancos de dados |
+| database | An organized collection of data, stored electronically or physically, that can be efficiently accessed, managed, and updated. | —| —| —| base de dados | banco de dados |
+| databases | An organized collection of data, stored electronically or physically, that can be efficiently accessed, managed, and updated. | —| —| —| bases de dados | bancos de dados |
 | database management system | — | —| —| —| — | sistema de gestão de base de dados |
 | add-on | — | —| —| —| — | extensão |
 | add-ons | — | —| —| —| — | extensões |
