@@ -104,6 +104,8 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | database management system | — | —| —| —| — | sistema de gestão de base de dados |
 | add-on | — | —| —| —| — | extensão |
 | add-ons | — | —| —| —| — | extensões |
+| remote browser isolation | — | —| —| —| — | isolamento de navegador remoto |
+| zero trust network access | — | —| —| —| — | acesso à rede de confiança zero |
 ---
 
 A few notes worth flagging:
