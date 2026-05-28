@@ -110,6 +110,9 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | identity security | — | —| —| —| — | segurança de identidade |
 | seats | — | —| —| —| — | licenças |
 | seat | — | —| —| —| — | licença |
+| rate limit | — | —| —| —| — | limite de uso |
+| regenerate | — | —| —| —| gerar novamente | regenerar |
+| webinar | — | —| —| —| — | webinário |
 ---
 
 A few notes worth flagging:
