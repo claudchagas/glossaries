@@ -117,6 +117,10 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | zoom in | — | —| —| —| — | ampliar |
 | zoom out | — | —| —| —| — | reduzir zoom |
 | rate limit | — | —| —| —| — | limite de uso |
+| Dashboard                       | "Painel" is standard in Brazilian software interfaces (e.g., Google, Meta PT-BR products) and appropriate for an analytics navigation context. | Noun | No | | Dashboard | Painel |
+| thread | — | —| —| —| — | tópico |
+| queued | — | —| —| —| — | na fila |
+| tab | — | —| —| —| guia | aba |
 ---
 
 A few notes worth flagging:
