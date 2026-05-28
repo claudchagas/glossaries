@@ -113,6 +113,10 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | rate limit | — | —| —| —| — | limite de uso |
 | regenerate | — | —| —| —| gerar novamente | regenerar |
 | webinar | — | —| —| —| — | webinário |
+| rich viwer | — | —| —| —| — | visualizdor avançado |
+| zoom in | — | —| —| —| — | ampliar |
+| zoom out | — | —| —| —| — | reduzir zoom |
+| rate limit | — | —| —| —| — | limite de uso |
 ---
 
 A few notes worth flagging:
