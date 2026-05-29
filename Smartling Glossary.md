@@ -121,6 +121,7 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | thread | — | —| —| —| — | tópico |
 | queued | — | —| —| —| — | na fila |
 | tab | — | —| —| —| guia | aba |
+| pull request | — | —| —| —| — | pull request |
 ---
 
 A few notes worth flagging:
