@@ -122,6 +122,10 @@ The request is for a markdown table, not a Word document, so no skill is needed.
 | queued | — | —| —| —| — | na fila |
 | tab | — | —| —| —| guia | aba |
 | pull request | — | —| —| —| — | pull request |
+| Advanced Reporting & Alerts Module (ARAM) | — | —| —| —| — | Módulo de Relatórios e Alertas Avançados (ARAM) |
+| remote browser isolation | — | —| —| —| — | isolamento de navegador remoto |
+| dark web monitoring | — | —| —| —| — | imonitoramento da dark web |
+| autofill | — | —| —| —| — | preenchimento automático |
 ---
 
 A few notes worth flagging:
